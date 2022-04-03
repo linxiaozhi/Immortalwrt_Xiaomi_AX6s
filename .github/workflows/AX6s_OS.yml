@@ -28,7 +28,7 @@ on:
         default: 'ax6s.patch'
 
 env:
-  REPO_URL: https://github.com/linxiaozhi/immortalwrt-source
+  REPO_URL: https://github.com/CCA2878/immortalwrt-source
   REPO_BRANCH: openwrt-18.06-k5.4
   FEEDS_CONF: feeds.conf.default
   DEPENDENCIES: code.dependencies
